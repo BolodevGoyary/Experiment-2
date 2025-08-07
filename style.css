@@ -1,0 +1,58 @@
+/* Tag selector */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* ID selector */
+  #container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  /* Class selector */
+  .title {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 0;
+  }
+  
+  .subtitle {
+    font-size: 1.2rem;
+    color: #7f8c8d;
+    margin-top: 5px;
+  }
+  
+  h2 {
+    color: #34495e;
+    margin-top: 30px;
+  }
+  
+  p {
+    line-height: 1.6;
+    margin-bottom: 16px;
+  }
+  
+  .footer-text {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #777;
+    margin-top: 40px;
+  }
+  
+  a {
+    color: #2980b9;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
